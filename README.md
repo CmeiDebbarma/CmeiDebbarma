@@ -54,15 +54,7 @@ My work sits at the intersection of **Data Engineering** (scalable pipelines) an
 *Currently in development.*
 > *Building a [type of tool] that leverages [specific AI technique] to solve [specific problem].*
 
----
 
 ###  Coding Philosophy ("The Vibe")
 > *"The future isn't just about writing code; it's about curating the agents that write it. I practice 'Vibe Coding'—orchestrating AI to handle the heavy lifting while I focus on architecture and product vision."*
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
