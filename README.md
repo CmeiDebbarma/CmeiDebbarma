@@ -10,8 +10,8 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/[your-username]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-    <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
+    <a href="https://linkedin.com/in/[SHIMEI DEBBARMA]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+    <a href="mailto:[shimei.debbarma@gmail.com]"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
   </p>
 </div>
 
